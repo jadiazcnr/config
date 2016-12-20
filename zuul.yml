@@ -1,0 +1,11 @@
+info:
+  version: 0.0.1-SNAPSHOT
+  Description: Zuul Reverse Proxy
+
+server:
+  port: 8089
+  
+zuul:
+  ignored-services: '*'
+  routes:
+    customer: /customer/**

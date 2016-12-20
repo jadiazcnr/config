@@ -1,0 +1,10 @@
+info:
+  version: 0.0.1-SNAPSHOT
+  Description: Turbine Server
+  
+server:
+  port: 8765
+  
+turbine:
+  appConfig: customer
+  clusterNameExpression: new String('default')
