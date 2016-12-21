@@ -1,0 +1,6 @@
+info:
+  version: 0.0.1-SNAPSHOT
+  Description: Notification 2nd level microservice
+  
+server:
+  port: 8092

@@ -10,3 +10,4 @@ zuul:
   routes:
     customer: /customer/**
     product: /product/**
+    notification: /notification/**
