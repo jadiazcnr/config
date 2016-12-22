@@ -6,5 +6,4 @@ server:
   port: 8765
   
 turbine:
-  appConfig: customer
-  clusterNameExpression: new String('default')
+  appConfig: customer,product,notification
