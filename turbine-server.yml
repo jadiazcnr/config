@@ -7,3 +7,4 @@ server:
   
 turbine:
   appConfig: customer,product,notification
+  clusterNameExpression: new String('default')
