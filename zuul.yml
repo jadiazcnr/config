@@ -8,6 +8,6 @@ server:
 zuul:
   ignored-services: '*'
   routes:
-    customer: /customer/**
-    product: /product/**
+    customer: /translator/**
+    dating-manager: /datings/**
     notification: /notification/**
